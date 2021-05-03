@@ -1,0 +1,21 @@
+* Стандарт SV
+
+ Актуальную версию стандарта можно скачать здесь (необходимо зарегестрироваться): https://ieeexplore.ieee.org/browse/standards/get-program/page
+1. Выбираем пункт “GET Design Automation Standards”
+2. Находим в списке “IEEE Standard for SystemVerilog” (там же лежит стандарт на UVM), переходим по ссылке и нажимаем на кнопку “PDF”
+3. Далее необходимо заполнить реквизиты организации в которой вы работаете или обучаетесь. После этого можно будет бесплатно скачать стандарт SytemVerilog.
+
+* Книги
+1. https://verificationacademy.com/cookbook
+2. https://www.springer.com/gp/book/9781461407140
+3. The UVM Primer - Salemy Ray A Practical Guide to Adopting the Universal Verification Methodology  - Sharon Rosenberg
+4. Writing Testbenches using SystemVerilog - Janick Bergeron
+5. https://martinfowler.com/books/refactoring.html 
+* Ссылки на ресурсы
+1. https://verificationacademy.com/ 
+2. https://www.cadence.com/en_US/home/training/all-courses.html 
+3. https://www.doulos.com/ 
+4. https://m.habr.com/ru/amp/post/481542/ отличная обзорная статья со списком литературы в конце
+5. Git Репозиторий и проект
+6. https://github.com/vzaicev/perfectSV         репозиторий на git
+7. https://github.com/users/vzaicev/projects/1  проект на git
